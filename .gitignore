@@ -1,0 +1,22 @@
+# eclipse files
+*.settings
+*.project
+*.classpath
+
+# netbeans files
+nbproject/
+
+# intellij files
+.idea
+*.iml
+
+# virtual machine crash logs
+hs_err_pid*
+
+# maven files
+target/
+
+# include releases
+!target/libshout-java.so
+!target/libshout-java.64.so
+!target/libshout-java-*.jar
